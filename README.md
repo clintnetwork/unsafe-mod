@@ -15,7 +15,7 @@
 
 ## Introduction
 
-unsafe-mod is an automated script that transform your Mac in a pentests workstation!
+unsafe-mod is a script that switch your macOS into a pentest workstation in few minutes.
 
 ## Content
 
