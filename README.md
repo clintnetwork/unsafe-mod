@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/5221349/92333957-c553a300-f089-11ea-87b8-22c938401b4d.png" height="150" alt="unsafe-mod" />
+    <img src="https://user-images.githubusercontent.com/5221349/92333991-224f5900-f08a-11ea-9da7-e55bcd2792cb.png" height="150" alt="unsafe-mod" />
   </p>
   <p align="center">
     unsafe-mod is a script that install pentest programs on macOS. 🍺
@@ -17,7 +17,7 @@
 
 unsafe-mod is a script that switch your macOS into a pentest workstation in few minutes.
 
-## Content
+## Ready to Install
 
 unsafe-mod will install on your mac, all of these programs:
 
