@@ -17,7 +17,7 @@
 
 unsafe-mod is a script that switch your macOS into a pentest workstation in few minutes.
 
-## Box Content
+## Package content
 
 unsafe-mod will install on your mac, all of these programs:
 
