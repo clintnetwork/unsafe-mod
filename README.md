@@ -21,4 +21,8 @@ unsafe-mod is a script that switch your macOS into a pentest workstation in few 
 
 unsafe-mod will install on your mac, all of these programs:
 
-- nmap
+- [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
+- [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
+- [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
+- [Wireshark](https://www.wireshark.org/) - Widely-used graphical, cross-platform network protocol analyzer.
+- [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
