@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/5221349/92327970-b8b95580-f05d-11ea-9aad-ffb9585fa03e.png" height="100" alt="unsafe-mod" />
   </p>
   <p align="center">
-    unsafe-mod is a script to install pentest programs on macOS. 🍺
+    unsafe-mod is a script that install pentest programs on macOS. 🍺
   </p>
   <p align="center">
     <a href="#"><img src="https://github.com/clintnetwork/unsafe-mod/workflows/build/badge.svg" /></a>
