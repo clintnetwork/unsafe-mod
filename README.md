@@ -1,9 +1,9 @@
 <p align="center">
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/5221349/92327970-b8b95580-f05d-11ea-9aad-ffb9585fa03e.png" height="100" alt="unsafe-mod" />
+    <img src="https://user-images.githubusercontent.com/5221349/92333991-224f5900-f08a-11ea-9da7-e55bcd2792cb.png" height="150" alt="unsafe-mod" />
   </p>
   <p align="center">
-    unsafe-mod is a script to install pentest programs on macOS. 🍺
+    unsafe-mod switch your computer into a pentest workstation. 🍺
   </p>
   <p align="center">
     <a href="#"><img src="https://github.com/clintnetwork/unsafe-mod/workflows/build/badge.svg" /></a>
@@ -15,10 +15,14 @@
 
 ## Introduction
 
-unsafe-mod is an automated script that transform your Mac in a pentests workstation!
+unsafe-mod is a script that switch your macOS into a pentest workstation in few minutes.
 
-## Content
+## Into the box
 
 unsafe-mod will install on your mac, all of these programs:
 
-- nmap
+- [SQLmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool.
+- [nmap](https://nmap.org/) - Free security scanner for network exploration & security audits.
+- [Aircrack-ng](http://www.aircrack-ng.org/) - Set of tools for auditing wireless networks.
+- [Wireshark](https://www.wireshark.org/) - Widely-used graphical, cross-platform network protocol analyzer.
+- [Metasploit](https://www.metasploit.com/) - Software for offensive security teams to help verify vulnerabilities and manage security assessments.
